@@ -1,0 +1,106 @@
+body {
+    font-family: 'Arial', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('https://images.pexels.com/photos/1118873/pexels-photo-1118873.jpeg?cs=srgb&dl=pexels-jplenio-1118873.jpg&fm=jpg');
+    background-size: cover;
+  }
+  
+  .container {
+    text-align: center;
+    background-color: lightblue;
+    border-radius: 10px;
+    padding: 40px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    max-height: 1200px;
+    width: 100%;
+    position: absolute;
+    top: 20px; 
+    left: 20px;  
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  .search-box {
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    width: 70%;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    border: none;
+    background-color: #5f9ea0;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #4682b4;
+  }
+  
+  #weather-display {
+    margin-top: 20px;
+  }
+  
+  #temperature, #description {
+    font-size: 1.2rem;
+    color:purple;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  #error-message {
+    color: red;
+    margin-top: 10px;
+  } 
+  body.sunny {
+    background-image: url('https://png.pngtree.com/background/20230614/original/pngtree-sun-in-a-field-on-a-sunny-day-picture-image_3530002.jpg');
+    background-size: contain;
+    background-position: center;
+    
+  }
+  
+  body.cloudy {
+    background-image: url('https://www.louisdallaraphotography.com/wp-content/uploads/2019/11/clouds-photo-6119.jpg');
+    background-size: cover;
+    
+  }
+  
+  body.rainy {
+    background-image: url('https://img.freepik.com/free-photo/weather-effects-composition_23-2149853295.jpg');
+    background-size: cover; 
+    filter: contrast(1.2) brightness(1.1);
+    image-rendering: crisp-edges; 
+  } 
+  
+  body.clear {
+    background-image: url('https://admin.goweatherforecast.com/templateEditor/kcfinder/uploads/images/3.2021/importance-of-weather-forecasting-2.jpg');
+    background-size: cover;
+    filter: contrast(1.2) brightness(1.1);
+    image-rendering: crisp-edges; 
+  
+  }
+  
+  body.overcast {
+    background-image: url('https://img.freepik.com/premium-photo/landscape-rocky-mountains-dark-cloudy-day-with-overcast_665346-56807.jpg');
+    background-size: cover;
+    filter: contrast(1.2) brightness(1.1);
+    image-rendering: crisp-edges;  
+  }
+
+

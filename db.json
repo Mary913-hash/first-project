@@ -1,0 +1,83 @@
+{
+  "cities": [
+    {
+      "name": "lagos",
+      "temperature": 43,
+      "condition": "clear",
+      "humidity": 60,
+      "image": "https://png.pngtree.com/background/20230614/original/pngtree-sun-in-a-field-on-a-sunny-day-picture-image_3530002.jpg",
+      "id": "2f56"
+    },
+    {
+      "name": "Johannesburg",
+      "temperature": 22,
+      "condition": "Cloudy",
+      "humidity": 70,
+      "image": "https://www.louisdallaraphotography.com/wp-content/uploads/2019/11/clouds-photo-6119.jpg",
+      "id": "6afa"
+    },
+    {
+      "name": "New York",
+      "temperature": 40,
+      "condition": "Rainy",
+      "humidity": 80,
+      "image": "https://img.freepik.com/free-photo/weather-effects-composition_23-2149853295.jpg",
+      "id": "1600"
+    },
+    {
+      "name": "London",
+      "temperature": 43,
+      "condition": "clear",
+      "humidity": 60,
+      "image": "https://www.louisdallaraphotography.com/wp-content/uploads/2019/11/clouds-photo-6119.jpg",
+      "id": "e1aa"
+    },
+    {
+      "name": "Paris",
+      "temperature": 18,
+      "condition": "Sunny",
+      "humidity": 65,
+      "image": "https://png.pngtree.com/background/20230614/original/pngtree-sun-in-a-field-on-a-sunny-day-picture-image_3530002.jpg",
+      "id": "5367"
+    },
+    {
+      "name": "Tokyo",
+      "temperature": 43,
+      "condition": "sunny",
+      "humidity": 60,
+      "image": "https://www.louisdallaraphotography.com/wp-content/uploads/2019/11/clouds-photo-6119.jpg",
+      "id": "b009"
+    },
+    {
+      "name": "Sydney",
+      "temperature": 27,
+      "condition": "Sunny",
+      "humidity": 50,
+      "image": "https://png.pngtree.com/background/20230614/original/pngtree-sun-in-a-field-on-a-sunny-day-picture-image_3530002.jpg",
+      "id": "d225"
+    },
+    {
+      "name": "Moscow",
+      "temperature": 5,
+      "condition": "calm",
+      "humidity": 90,
+      "image": "https://admin.goweatherforecast.com/templateEditor/kcfinder/uploads/images/3.2021/importance-of-weather-forecasting-2.jpg",
+      "id": "65d7"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "temperature": 30,
+      "condition": "overcast",
+      "humidity": 55,
+      "image": "https://img.freepik.com/premium-photo/landscape-rocky-mountains-dark-cloudy-day-with-overcast_665346-56807.jpg",
+      "id": "3317"
+    },
+    {
+      "id": "0546",
+      "name": "dubai",
+      "temperature": 40,
+      "condition": "cloudy",
+      "humidity": 60
+    }
+  ]
+}

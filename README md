@@ -1,0 +1,24 @@
+# Weather App
+
+**Done on:** 29/8/2024  
+**By:** Mary Wanjiru
+
+## Description
+
+This project is a weather application that allows users to search for the current weather conditions in different cities. It enables users to add, update, and view city weather details. The application fetches data from a local JSON server and a public weather API.
+
+### Files Included
+
+- **script.js**: Contains the main functionality for fetching and displaying weather data based on user input.
+- **styles.css**: Stylesheet for styling the weather application interface.
+- **index.html**: The main HTML file that provides the structure of the application.
+- **NEW api** this is a public API for displayin weather
+## Installation Requirements
+
+- Git
+
+## Installation Instructions
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Mary913-hash/first-project
